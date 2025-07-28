@@ -1,5 +1,7 @@
 # Try Again
 
+https://github.com/user-attachments/assets/c76ab41e-e336-4370-b43d-d01c229d2dae
+
 This project is a simple command-line tool to play back fictional conversations stored in a custom `.cnv` file format written in raw C.  
 Originally wrote it because I was bored, so some bugs may be. Named it "Try Again" because that's the first stories name which inspired me to create that project.  
 
