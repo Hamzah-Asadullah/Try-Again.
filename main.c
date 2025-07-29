@@ -231,6 +231,7 @@ int main(int argc, char* argv[])
         }
         printf(">>\n");
     }
+    data_set_null(&d);
 
     return 0;
 }
