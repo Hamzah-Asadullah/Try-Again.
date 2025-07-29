@@ -25,7 +25,7 @@ Originally wrote it because I was bored, so some bugs may be. Named it "Try Agai
     ./main.exe ./conversation/your-conversation.cnv
     ```
 
-    Many cute stories can be found in the `conversation` folder. Note: You have to press enter to continue to the next message.
+    Many cute stories (everything LLM-generated except Try Again) can be found in the `conversation` folder. Note: You have to press enter to continue to the next message.
 
 ## `.cnv` File Format
 
